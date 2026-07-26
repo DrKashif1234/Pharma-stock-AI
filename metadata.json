@@ -1,0 +1,6 @@
+{
+  "name": "PharmaStock AI",
+  "description": "AI-Powered Pharmacy Inventory & Medicine Expiry Management System with Gemini AI Assistant, QR code stock scanning, expiry tracking, and analytical reporting.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
